@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  netatmo-exporter:
+  - apiVersion: v2
+    appVersion: 1.2.5-arm64
+    created: "2021-10-30T22:30:38.247964+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 3af387eaf7a35656398f25d95e9bbe4dfb63e2f5c739ceb7ecfb1a5e390fa454
+    name: netatmo-exporter
+    type: application
+    urls:
+    - https://robachmann.github.io/netatmo-exporter-chart/netatmo-exporter-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-30T22:30:38.200377+02:00"
