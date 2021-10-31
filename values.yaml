@@ -26,7 +26,7 @@ service:
   port: 8080
 
 serviceMonitor:
-  create: true
+  create: false
   jobLabel: netatmo-exporter
 
 netatmo: {}
